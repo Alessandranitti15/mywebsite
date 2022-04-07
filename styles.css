@@ -1,0 +1,30 @@
+body {
+  background-color: #FAF1E6;
+}
+
+hr {
+  border-style: dotted none none none;
+  border-color: #deb887;
+  border-width: 10px;
+  height: 1px;
+  width: 5%
+
+}
+h1 {
+  color: #D9534F;
+  font-style: oblique;
+  text-transform: capitalize;
+}
+
+h3 {
+  color: #EBA83A;
+}
+
+h1:hover{
+  color: red;
+}
+h3:hover{
+  color: red;
+}
+
+.foto-io {border-radius: 10%;}
